@@ -5,7 +5,7 @@
 
 	<div class="form-group">
 		<label for="">${4:label}</label>
-		<input type="text" class="form-control" id="" placeholder="Input field">
+		<input type="text" class="form-control" name="${5}" id="${6}" placeholder="Input field" ${7:required}>
 	</div>
 
 	${0}
