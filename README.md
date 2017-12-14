@@ -1,10 +1,10 @@
-Bootstrap 3 - Sublime Plugin
+ Bootstrap 3 - Sublime Plugin
 ==================
 
-A sublime plugin complete with Bootstrap 3 snippets
+A sublime plugin complete with Bootstrap 3 snippets,
+for my personal usage.
 
-Feel free to let me know what else you want added via:
-
+Many thanks to:
 - Twitter [@JasonMortonNZ](https://twitter.com/jasonmortonnz)
 - [Issues](https://github.com/JasonMortonNZ/bs3-sublime-plugin/issues)
 
