@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>bs3-form-group</tabTrigger>
+	<description>Wrap labels and form controls in class="form-group" (needed for optimum spacing)</description>
+</snippet>
