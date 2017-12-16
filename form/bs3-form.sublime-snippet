@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <form action="${1}" method="${2:POST}" role="form">
 	<legend>${3:Form title}</legend>
-	{{ csrf_field() }} <-- laravel csrf protection -->
+	{{ csrf_field() }} <!-- laravel csrf protection -->
 
 	<div class="form-group">
 		<label for="">${4:label}</label>
